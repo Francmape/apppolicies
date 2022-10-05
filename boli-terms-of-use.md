@@ -1,4 +1,4 @@
-Privacy Policy  
+Terms of Use 
 ----------------
 
 ### Please read these terms and conditions carefully before using our platforms.  
