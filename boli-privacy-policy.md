@@ -9,7 +9,19 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, age, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app may use third party services that may collect information used to identify you. 
+The app may use third party services that may collect information used to identify you.
+
+### Account Deletion  
+Purpose:
+The purpose of this policy is to establish guidelines and procedures for the deletion of data and information within our organization. The policy ensures that data is appropriately and securely deleted in accordance with legal, regulatory, and organizational requirements.
+
+Deletion Procedures:
+a. The responsibility for data deletion lies with the account owner.
+b. Data deletion must ensures the irretrievable removal of data from all storage media and backups.
+c. Boli does not share data with any third-party vendors.
+d. To delete you data:
+      1. Finish all your tournaments.
+      2. In the settings menu, select your account then choose delete account option. This will delete your account.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
